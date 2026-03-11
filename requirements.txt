@@ -1,0 +1,18 @@
+ipykernel 
+IProgress
+matplotlib
+seaborn
+pandas 
+numpy 
+tqdm 
+joblib 
+scikit-learn
+kagglehub 
+tensorflow[and-cuda]
+datasets 
+transformers 
+torch>=2.1.0+cu126
+torchvision>=0.17.0+cu126
+torchaudio>=2.1.0+cu126
+--extra-index-url https://download.pytorch.org/whl/cu126
+huggingface_hub
